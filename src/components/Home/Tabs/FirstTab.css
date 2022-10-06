@@ -1,0 +1,26 @@
+.TripOptions{
+    width: 98%;
+      margin: 0 auto 0.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding-left: 0px;
+      gap: 0.5rem;
+  }
+  .option{
+    width: 50%;
+    padding: 1rem 0;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.7s;
+    border-radius: 1rem;
+    font-size: 1.2rem;
+    background-color: #F6F6F6;
+    box-sizing: border-box;
+  }
+  
+  
+  .ption input[type="radio"]{
+    margin-right: 16px;
+  }
+  

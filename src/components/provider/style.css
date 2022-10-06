@@ -1,0 +1,17 @@
+.formclass input
+{
+    margin: 0 0 10px 0;
+}
+.providerdiv
+{
+    display: flex;
+    justify-content: center;
+    background-color: #162800;
+
+}
+.properform
+{
+    width: 60%;
+    min-width: 30rem;
+}
+

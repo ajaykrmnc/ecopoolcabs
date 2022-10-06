@@ -1,0 +1,43 @@
+.Tabs {
+    height: auto;
+    min-height:300px;
+    background: white;
+    padding: 1.5rem 0.75rem;
+    border-radius: 2rem;
+    
+   }
+  
+  
+   ul.nav {
+    width: 98%;
+    margin: 0 auto 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 0px;
+    gap: 0.5rem;
+  }
+  
+  
+  ul.nav li {
+    width: 49%;
+    padding: 0.75rem;
+    list-style: none;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.7s;
+    border-radius: 1rem;
+    font-size: 1.5rem;
+    font-weight: 400;
+    background-color: #F6F6F6;
+  }
+  
+  ul.nav li:hover {
+    background:#fdb813;
+  }
+  ul.nav li.active {
+    background:#fdb813;
+  }
+  
+  
+  

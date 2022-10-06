@@ -1,0 +1,119 @@
+
+.header
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding: 6px 0;
+    background-color: #303030;
+
+}
+.navlogo
+{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 10px 0 ;
+
+
+}
+.saradiv
+{
+    display: flex;
+    justify-content: space-between;
+}
+.header h1
+{
+    /* font-family: 'Poppins', sans-serif; */
+    align-items: center;
+    display: flex;
+    text-align: center;
+    color: white;
+    margin: 0 10px;
+    font-weight: bold;
+
+}
+.link {
+    text-decoration: none;
+    text-decoration-style: none;
+    margin: 0 10px ;
+    font-size: 20px;
+    /* color: white; */
+    color: #83ea6c;
+
+    font-weight: 500;
+} 
+.link:hover{
+    color: white;
+    text-emphasis-color: white;
+    font-family: 'Poppins', sans-serif;
+}
+.button-group
+{
+    display: flex;
+    align-items: center;
+    
+
+}
+.button-group button {
+    color: black;
+    background-color: transparent;
+    outline: none;
+    border: none;
+
+}
+.button-group a{
+    overflow: hidden;
+    white-space: nowrap;
+}
+.button-group button:focus
+{
+    box-shadow: none;
+}
+.listphoto button:focus {
+    box-shadow: none;
+}
+.listphoto button {
+   border: none;
+}
+
+.aadmi
+{
+    width: 3rem;
+    border-radius: 50%;
+    border: none;
+
+}
+.dropdown
+{
+    background-color: transparent!important;
+
+
+}
+.dropdown:onclick
+{
+    outline: none!important;
+    border: none!important;
+}
+.list
+{
+    padding-bottom: 20px;
+    padding-left: 5%;
+}
+.list li
+{
+    text-decoration-style: none;
+    list-style: none;
+    
+}
+.tinlinevala
+{
+    background-color: transparent;
+    border: none;
+}
+
+
+

@@ -1,0 +1,44 @@
+.left-of-map
+{
+    background-color: rgb(245 245 245);
+    border: 1px solid lightgray;
+}
+.top-left-map
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+.top-left-map div
+{
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+.map-left-btn
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.place-to-from-btn 
+{
+    margin-top: 20px;
+}
+.place-to-from-btn div
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+.place-to-from-btn input
+{
+    width: 95%;
+    border: 1px solid lightgray;
+    height: 40px;
+    background-color: rgb(226 226 226);   
+}
+input:onClick {
+    
+}
